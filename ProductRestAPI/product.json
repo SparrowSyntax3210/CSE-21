@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 45,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "description": "Over-ear wireless headphones with noise cancellation and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Pro X",
+    "category": "Electronics",
+    "price": 34999,
+    "stock": 18,
+    "brand": "TechNova",
+    "rating": 4.6,
+    "description": "Premium smartphone with AMOLED display and high-performance processor."
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Computer Accessories",
+    "price": 3999,
+    "stock": 32,
+    "brand": "KeyMaster",
+    "rating": 4.4,
+    "description": "RGB mechanical keyboard with tactile switches and programmable keys."
+  },
+  {
+    "id": 4,
+    "name": "Wireless Gaming Mouse",
+    "category": "Computer Accessories",
+    "price": 1799,
+    "stock": 67,
+    "brand": "GamePro",
+    "rating": 4.3,
+    "description": "High precision wireless gaming mouse with adjustable DPI."
+  },
+  {
+    "id": 5,
+    "name": "USB-C Fast Charger",
+    "category": "Electronics",
+    "price": 1299,
+    "stock": 89,
+    "brand": "PowerPlus",
+    "rating": 4.5,
+    "description": "65W USB-C fast charger compatible with smartphones and laptops."
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 1599,
+    "stock": 54,
+    "brand": "UrbanCarry",
+    "rating": 4.2,
+    "description": "Water-resistant backpack with dedicated laptop compartment."
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 2999,
+    "stock": 41,
+    "brand": "SpeedRun",
+    "rating": 4.4,
+    "description": "Lightweight running shoes designed for comfort and daily training."
+  },
+  {
+    "id": 8,
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 2199,
+    "stock": 28,
+    "brand": "DenimCo",
+    "rating": 4.1,
+    "description": "Classic blue denim jacket with a comfortable regular fit."
+  },
+  {
+    "id": 9,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 699,
+    "stock": 120,
+    "brand": "WearWell",
+    "rating": 4.3,
+    "description": "Soft premium cotton t-shirt suitable for everyday wear."
+  },
+  {
+    "id": 10,
+    "name": "Smart Watch Series 5",
+    "category": "Wearables",
+    "price": 4999,
+    "stock": 35,
+    "brand": "FitTech",
+    "rating": 4.5,
+    "description": "Smartwatch with fitness tracking, heart-rate monitoring and notifications."
+  },
+  {
+    "id": 11,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1899,
+    "stock": 61,
+    "brand": "SoundMax",
+    "rating": 4.4,
+    "description": "Compact Bluetooth speaker with powerful stereo sound."
+  },
+  {
+    "id": 12,
+    "name": "4K Smart LED TV",
+    "category": "Television",
+    "price": 42999,
+    "stock": 12,
+    "brand": "VisionTech",
+    "rating": 4.6,
+    "description": "55-inch 4K smart LED television with streaming applications."
+  },
+  {
+    "id": 13,
+    "name": "Gaming Laptop",
+    "category": "Laptops",
+    "price": 74999,
+    "stock": 9,
+    "brand": "GameCore",
+    "rating": 4.7,
+    "description": "High-performance gaming laptop with dedicated graphics."
+  },
+  {
+    "id": 14,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 2299,
+    "stock": 73,
+    "brand": "AudioBeat",
+    "rating": 4.3,
+    "description": "True wireless earbuds with touch controls and charging case."
+  },
+  {
+    "id": 15,
+    "name": "Smartphone Case",
+    "category": "Mobile Accessories",
+    "price": 499,
+    "stock": 150,
+    "brand": "CaseCraft",
+    "rating": 4.1,
+    "description": "Shock-resistant protective case with slim design."
+  },
+  {
+    "id": 16,
+    "name": "Tempered Glass Screen Protector",
+    "category": "Mobile Accessories",
+    "price": 299,
+    "stock": 200,
+    "brand": "ShieldPro",
+    "rating": 4.2,
+    "description": "9H tempered glass screen protector with anti-fingerprint coating."
+  },
+  {
+    "id": 17,
+    "name": "Laptop Stand",
+    "category": "Computer Accessories",
+    "price": 999,
+    "stock": 76,
+    "brand": "DeskPro",
+    "rating": 4.4,
+    "description": "Adjustable aluminum laptop stand for ergonomic working."
+  },
+  {
+    "id": 18,
+    "name": "USB-C Hub",
+    "category": "Computer Accessories",
+    "price": 1499,
+    "stock": 58,
+    "brand": "ConnectX",
+    "rating": 4.3,
+    "description": "Multi-port USB-C hub with HDMI, USB and SD card support."
+  },
+  {
+    "id": 19,
+    "name": "External SSD 1TB",
+    "category": "Storage",
+    "price": 6999,
+    "stock": 24,
+    "brand": "DataDrive",
+    "rating": 4.7,
+    "description": "High-speed portable 1TB solid-state drive."
+  },
+  {
+    "id": 20,
+    "name": "Wireless Router",
+    "category": "Networking",
+    "price": 2799,
+    "stock": 38,
+    "brand": "NetLink",
+    "rating": 4.4,
+    "description": "Dual-band Wi-Fi router with high-speed wireless connectivity."
+  },
+  {
+    "id": 21,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 8999,
+    "stock": 16,
+    "brand": "ComfortSeat",
+    "rating": 4.5,
+    "description": "Ergonomic office chair with adjustable height and lumbar support."
+  },
+  {
+    "id": 22,
+    "name": "Study Table",
+    "category": "Furniture",
+    "price": 5499,
+    "stock": 21,
+    "brand": "HomeCraft",
+    "rating": 4.2,
+    "description": "Compact wooden study table with spacious working surface."
+  },
+  {
+    "id": 23,
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "price": 899,
+    "stock": 83,
+    "brand": "BrightHome",
+    "rating": 4.4,
+    "description": "Adjustable LED desk lamp with multiple brightness levels."
+  },
+  {
+    "id": 24,
+    "name": "Coffee Maker",
+    "category": "Kitchen",
+    "price": 3499,
+    "stock": 29,
+    "brand": "BrewMaster",
+    "rating": 4.3,
+    "description": "Automatic coffee maker for freshly brewed coffee at home."
+  },
+  {
+    "id": 25,
+    "name": "Electric Kettle",
+    "category": "Kitchen",
+    "price": 1299,
+    "stock": 64,
+    "brand": "KitchenPro",
+    "rating": 4.5,
+    "description": "Fast-boiling electric kettle with automatic shutoff."
+  },
+  {
+    "id": 26,
+    "name": "Air Fryer",
+    "category": "Kitchen",
+    "price": 4999,
+    "stock": 27,
+    "brand": "HealthyCook",
+    "rating": 4.4,
+    "description": "Digital air fryer for low-oil cooking with preset programs."
+  },
+  {
+    "id": 27,
+    "name": "Non-Stick Cookware Set",
+    "category": "Kitchen",
+    "price": 3299,
+    "stock": 34,
+    "brand": "CookEase",
+    "rating": 4.2,
+    "description": "Complete non-stick cookware set for everyday cooking."
+  },
+  {
+    "id": 28,
+    "name": "Water Bottle 1L",
+    "category": "Fitness",
+    "price": 599,
+    "stock": 110,
+    "brand": "HydroFit",
+    "rating": 4.3,
+    "description": "Reusable BPA-free water bottle with leak-proof lid."
+  },
+  {
+    "id": 29,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 799,
+    "stock": 92,
+    "brand": "FlexFit",
+    "rating": 4.4,
+    "description": "Non-slip yoga mat with cushioned surface."
+  },
+  {
+    "id": 30,
+    "name": "Adjustable Dumbbells",
+    "category": "Fitness",
+    "price": 4999,
+    "stock": 18,
+    "brand": "PowerGym",
+    "rating": 4.5,
+    "description": "Adjustable dumbbell set for strength training at home."
+  },
+  {
+    "id": 31,
+    "name": "Football",
+    "category": "Sports",
+    "price": 899,
+    "stock": 47,
+    "brand": "SportMax",
+    "rating": 4.3,
+    "description": "Durable training football suitable for outdoor matches."
+  },
+  {
+    "id": 32,
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "price": 2499,
+    "stock": 26,
+    "brand": "BatPro",
+    "rating": 4.5,
+    "description": "Lightweight cricket bat designed for powerful shots."
+  },
+  {
+    "id": 33,
+    "name": "Cricket Ball",
+    "category": "Sports",
+    "price": 499,
+    "stock": 75,
+    "brand": "BatPro",
+    "rating": 4.2,
+    "description": "Durable leather cricket ball for competitive practice."
+  },
+  {
+    "id": 34,
+    "name": "Badminton Racket",
+    "category": "Sports",
+    "price": 1299,
+    "stock": 39,
+    "brand": "SmashPro",
+    "rating": 4.4,
+    "description": "Lightweight badminton racket with durable string tension."
+  },
+  {
+    "id": 35,
+    "name": "Sports Shoes",
+    "category": "Footwear",
+    "price": 2799,
+    "stock": 44,
+    "brand": "ActiveStep",
+    "rating": 4.3,
+    "description": "Comfortable sports shoes for running and gym workouts."
+  },
+  {
+    "id": 36,
+    "name": "Hoodie",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 63,
+    "brand": "UrbanWear",
+    "rating": 4.2,
+    "description": "Warm cotton-blend hoodie with a modern relaxed fit."
+  },
+  {
+    "id": 37,
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "price": 1199,
+    "stock": 52,
+    "brand": "ClassicWear",
+    "rating": 4.1,
+    "description": "Slim-fit formal shirt suitable for office and events."
+  },
+  {
+    "id": 38,
+    "name": "Chino Pants",
+    "category": "Clothing",
+    "price": 1599,
+    "stock": 37,
+    "brand": "UrbanWear",
+    "rating": 4.2,
+    "description": "Comfortable cotton chino pants with a modern fit."
+  },
+  {
+    "id": 39,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 999,
+    "stock": 81,
+    "brand": "LeatherCraft",
+    "rating": 4.4,
+    "description": "Genuine leather wallet with multiple card slots."
+  },
+  {
+    "id": 40,
+    "name": "Analog Wrist Watch",
+    "category": "Watches",
+    "price": 2999,
+    "stock": 25,
+    "brand": "TimeZone",
+    "rating": 4.3,
+    "description": "Classic analog wristwatch with stainless steel case."
+  },
+  {
+    "id": 41,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 68,
+    "brand": "SunGuard",
+    "rating": 4.2,
+    "description": "UV-protection sunglasses with polarized lenses."
+  },
+  {
+    "id": 42,
+    "name": "Travel Duffel Bag",
+    "category": "Bags",
+    "price": 1799,
+    "stock": 46,
+    "brand": "TravelPro",
+    "rating": 4.3,
+    "description": "Spacious duffel bag designed for weekend and short trips."
+  },
+  {
+    "id": 43,
+    "name": "Hard Shell Suitcase",
+    "category": "Bags",
+    "price": 4999,
+    "stock": 19,
+    "brand": "TravelPro",
+    "rating": 4.5,
+    "description": "Durable hard-shell suitcase with spinner wheels."
+  },
+  {
+    "id": 44,
+    "name": "Digital Camera",
+    "category": "Cameras",
+    "price": 45999,
+    "stock": 8,
+    "brand": "PhotoPro",
+    "rating": 4.7,
+    "description": "High-resolution digital camera with advanced autofocus."
+  },
+  {
+    "id": 45,
+    "name": "Camera Tripod",
+    "category": "Camera Accessories",
+    "price": 1999,
+    "stock": 42,
+    "brand": "PhotoPro",
+    "rating": 4.4,
+    "description": "Adjustable tripod with stable aluminum construction."
+  },
+  {
+    "id": 46,
+    "name": "Ring Light",
+    "category": "Photography",
+    "price": 1499,
+    "stock": 71,
+    "brand": "CreatorPro",
+    "rating": 4.3,
+    "description": "LED ring light for photography, streaming and video calls."
+  },
+  {
+    "id": 47,
+    "name": "Wireless Microphone",
+    "category": "Audio",
+    "price": 2999,
+    "stock": 31,
+    "brand": "VoicePro",
+    "rating": 4.4,
+    "description": "Compact wireless microphone system for content creators."
+  },
+  {
+    "id": 48,
+    "name": "Soundbar",
+    "category": "Audio",
+    "price": 6999,
+    "stock": 14,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "description": "Powerful soundbar with Bluetooth and cinematic audio."
+  },
+  {
+    "id": 49,
+    "name": "Power Bank 20000mAh",
+    "category": "Mobile Accessories",
+    "price": 1799,
+    "stock": 84,
+    "brand": "PowerPlus",
+    "rating": 4.4,
+    "description": "High-capacity power bank with fast charging support."
+  },
+  {
+    "id": 50,
+    "name": "Smart Home Camera",
+    "category": "Smart Home",
+    "price": 2499,
+    "stock": 36,
+    "brand": "SecureHome",
+    "rating": 4.5,
+    "description": "Indoor smart security camera with motion detection."
+  },
+  {
+    "id": 51,
+    "name": "Robot Vacuum Cleaner",
+    "category": "Home Appliances",
+    "price": 22999,
+    "stock": 7,
+    "brand": "CleanBot",
+    "rating": 4.6,
+    "description": "Smart robot vacuum with automatic navigation and cleaning."
+  },
+  {
+    "id": 52,
+    "name": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 8999,
+    "stock": 13,
+    "brand": "PureAir",
+    "rating": 4.4,
+    "description": "HEPA air purifier designed for cleaner indoor air."
+  },
+  {
+    "id": 53,
+    "name": "Tower Fan",
+    "category": "Home Appliances",
+    "price": 3999,
+    "stock": 22,
+    "brand": "CoolBreeze",
+    "rating": 4.2,
+    "description": "Quiet tower fan with multiple speed settings."
+  },
+  {
+    "id": 54,
+    "name": "Electric Iron",
+    "category": "Home Appliances",
+    "price": 999,
+    "stock": 57,
+    "brand": "HomeEase",
+    "rating": 4.1,
+    "description": "Non-stick soleplate iron with adjustable temperature."
+  },
+  {
+    "id": 55,
+    "name": "Washing Machine",
+    "category": "Home Appliances",
+    "price": 24999,
+    "stock": 10,
+    "brand": "WashPro",
+    "rating": 4.5,
+    "description": "Fully automatic washing machine with multiple wash modes."
+  },
+  {
+    "id": 56,
+    "name": "Refrigerator",
+    "category": "Home Appliances",
+    "price": 32999,
+    "stock": 6,
+    "brand": "CoolTech",
+    "rating": 4.6,
+    "description": "Energy-efficient double-door refrigerator with spacious storage."
+  },
+  {
+    "id": 57,
+    "name": "Microwave Oven",
+    "category": "Kitchen",
+    "price": 7499,
+    "stock": 18,
+    "brand": "KitchenPro",
+    "rating": 4.3,
+    "description": "Convection microwave oven with multiple cooking modes."
+  },
+  {
+    "id": 58,
+    "name": "Mixer Grinder",
+    "category": "Kitchen",
+    "price": 3499,
+    "stock": 33,
+    "brand": "KitchenPro",
+    "rating": 4.2,
+    "description": "Powerful mixer grinder with multiple stainless steel jars."
+  },
+  {
+    "id": 59,
+    "name": "Toaster",
+    "category": "Kitchen",
+    "price": 1299,
+    "stock": 49,
+    "brand": "BrewMaster",
+    "rating": 4.1,
+    "description": "Two-slice toaster with adjustable browning levels."
+  },
+  {
+    "id": 60,
+    "name": "Blender",
+    "category": "Kitchen",
+    "price": 1999,
+    "stock": 43,
+    "brand": "HealthyCook",
+    "rating": 4.3,
+    "description": "High-speed blender for smoothies and everyday food preparation."
+  },
+  {
+    "id": 61,
+    "name": "Backpack",
+    "category": "Bags",
+    "price": 1299,
+    "stock": 94,
+    "brand": "UrbanCarry",
+    "rating": 4.2,
+    "description": "Everyday backpack with multiple compartments."
+  },
+  {
+    "id": 62,
+    "name": "Canvas Shoes",
+    "category": "Footwear",
+    "price": 999,
+    "stock": 72,
+    "brand": "WalkEasy",
+    "rating": 4.1,
+    "description": "Casual canvas shoes designed for everyday comfort."
+  },
+  {
+    "id": 63,
+    "name": "Running Shorts",
+    "category": "Clothing",
+    "price": 799,
+    "stock": 85,
+    "brand": "ActiveWear",
+    "rating": 4.3,
+    "description": "Lightweight moisture-wicking shorts for running and training."
+  },
+  {
+    "id": 64,
+    "name": "Sports T-Shirt",
+    "category": "Clothing",
+    "price": 899,
+    "stock": 77,
+    "brand": "ActiveWear",
+    "rating": 4.4,
+    "description": "Breathable performance t-shirt for sports and workouts."
+  },
+  {
+    "id": 65,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 3499,
+    "stock": 29,
+    "brand": "WinterWear",
+    "rating": 4.5,
+    "description": "Insulated winter jacket designed for cold weather."
+  },
+  {
+    "id": 66,
+    "name": "Woolen Cap",
+    "category": "Accessories",
+    "price": 499,
+    "stock": 113,
+    "brand": "WinterWear",
+    "rating": 4.2,
+    "description": "Warm knitted cap for winter protection."
+  },
+  {
+    "id": 67,
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "price": 899,
+    "stock": 66,
+    "brand": "LeatherCraft",
+    "rating": 4.3,
+    "description": "Genuine leather belt with a durable metal buckle."
+  },
+  {
+    "id": 68,
+    "name": "Travel Pillow",
+    "category": "Travel",
+    "price": 699,
+    "stock": 58,
+    "brand": "TravelPro",
+    "rating": 4.2,
+    "description": "Memory foam travel pillow for comfortable journeys."
+  },
+  {
+    "id": 69,
+    "name": "Camping Tent",
+    "category": "Outdoor",
+    "price": 3999,
+    "stock": 17,
+    "brand": "OutdoorX",
+    "rating": 4.5,
+    "description": "Two-person waterproof camping tent with easy setup."
+  },
+  {
+    "id": 70,
+    "name": "Hiking Backpack",
+    "category": "Outdoor",
+    "price": 2999,
+    "stock": 23,
+    "brand": "OutdoorX",
+    "rating": 4.4,
+    "description": "Large-capacity hiking backpack with ergonomic support."
+  },
+  {
+    "id": 71,
+    "name": "LED Flashlight",
+    "category": "Outdoor",
+    "price": 599,
+    "stock": 91,
+    "brand": "BrightHome",
+    "rating": 4.3,
+    "description": "Rechargeable high-lumen LED flashlight."
+  },
+  {
+    "id": 72,
+    "name": "Smart LED Bulb",
+    "category": "Smart Home",
+    "price": 799,
+    "stock": 104,
+    "brand": "SmartLite",
+    "rating": 4.4,
+    "description": "Wi-Fi enabled smart bulb with app-controlled lighting."
+  },
+  {
+    "id": 73,
+    "name": "Smart Plug",
+    "category": "Smart Home",
+    "price": 999,
+    "stock": 63,
+    "brand": "SmartLite",
+    "rating": 4.2,
+    "description": "Wi-Fi smart plug with remote power control."
+  },
+  {
+    "id": 74,
+    "name": "Smart Door Lock",
+    "category": "Smart Home",
+    "price": 8999,
+    "stock": 11,
+    "brand": "SecureHome",
+    "rating": 4.5,
+    "description": "Keyless smart door lock with PIN and fingerprint access."
+  },
+  {
+    "id": 75,
+    "name": "Bluetooth Tracker",
+    "category": "Gadgets",
+    "price": 1299,
+    "stock": 45,
+    "brand": "TrackIt",
+    "rating": 4.3,
+    "description": "Compact Bluetooth tracker for locating personal belongings."
+  },
+  {
+    "id": 76,
+    "name": "Tablet 10 Inch",
+    "category": "Tablets",
+    "price": 18999,
+    "stock": 20,
+    "brand": "TechNova",
+    "rating": 4.5,
+    "description": "10-inch tablet with high-resolution display and long battery life."
+  },
+  {
+    "id": 77,
+    "name": "E-Reader",
+    "category": "Electronics",
+    "price": 9999,
+    "stock": 15,
+    "brand": "ReadTech",
+    "rating": 4.6,
+    "description": "Lightweight e-reader with glare-free display."
+  },
+  {
+    "id": 78,
+    "name": "Wireless Keyboard",
+    "category": "Computer Accessories",
+    "price": 1199,
+    "stock": 56,
+    "brand": "KeyMaster",
+    "rating": 4.2,
+    "description": "Slim wireless keyboard with quiet keys."
+  },
+  {
+    "id": 79,
+    "name": "Webcam Full HD",
+    "category": "Computer Accessories",
+    "price": 2499,
+    "stock": 39,
+    "brand": "VisionTech",
+    "rating": 4.4,
+    "description": "Full HD webcam with built-in microphone for video calls."
+  },
+  {
+    "id": 80,
+    "name": "Monitor 27 Inch",
+    "category": "Computer Accessories",
+    "price": 16999,
+    "stock": 14,
+    "brand": "VisionTech",
+    "rating": 4.6,
+    "description": "27-inch IPS monitor with high resolution and slim bezels."
+  },
+  {
+    "id": 81,
+    "name": "Gaming Monitor",
+    "category": "Gaming",
+    "price": 21999,
+    "stock": 12,
+    "brand": "GameCore",
+    "rating": 4.7,
+    "description": "High-refresh-rate gaming monitor with adaptive sync."
+  },
+  {
+    "id": 82,
+    "name": "Gaming Headset",
+    "category": "Gaming",
+    "price": 2999,
+    "stock": 43,
+    "brand": "GamePro",
+    "rating": 4.5,
+    "description": "Gaming headset with surround sound and noise-isolating microphone."
+  },
+  {
+    "id": 83,
+    "name": "Gaming Controller",
+    "category": "Gaming",
+    "price": 2499,
+    "stock": 36,
+    "brand": "GamePro",
+    "rating": 4.4,
+    "description": "Wireless gaming controller with ergonomic controls."
+  },
+  {
+    "id": 84,
+    "name": "External Hard Drive 2TB",
+    "category": "Storage",
+    "price": 5499,
+    "stock": 28,
+    "brand": "DataDrive",
+    "rating": 4.5,
+    "description": "Portable 2TB external hard drive for backup and storage."
+  },
+  {
+    "id": 85,
+    "name": "USB Flash Drive 128GB",
+    "category": "Storage",
+    "price": 999,
+    "stock": 88,
+    "brand": "DataDrive",
+    "rating": 4.3,
+    "description": "Compact 128GB USB flash drive with fast data transfer."
+  },
+  {
+    "id": 86,
+    "name": "Power Strip",
+    "category": "Electronics",
+    "price": 799,
+    "stock": 97,
+    "brand": "PowerPlus",
+    "rating": 4.2,
+    "description": "Multi-socket power strip with surge protection."
+  },
+  {
+    "id": 87,
+    "name": "Extension Cable",
+    "category": "Electronics",
+    "price": 599,
+    "stock": 108,
+    "brand": "PowerPlus",
+    "rating": 4.1,
+    "description": "Heavy-duty extension cable for home and office use."
+  },
+  {
+    "id": 88,
+    "name": "Desk Organizer",
+    "category": "Office",
+    "price": 499,
+    "stock": 74,
+    "brand": "DeskPro",
+    "rating": 4.2,
+    "description": "Compact organizer for stationery and office accessories."
+  },
+  {
+    "id": 89,
+    "name": "Notebook Set",
+    "category": "Stationery",
+    "price": 399,
+    "stock": 135,
+    "brand": "WriteWell",
+    "rating": 4.4,
+    "description": "Set of three premium ruled notebooks."
+  },
+  {
+    "id": 90,
+    "name": "Premium Ball Pen Set",
+    "category": "Stationery",
+    "price": 299,
+    "stock": 180,
+    "brand": "WriteWell",
+    "rating": 4.3,
+    "description": "Smooth-writing ball pens suitable for office and study."
+  },
+  {
+    "id": 91,
+    "name": "Back Support Cushion",
+    "category": "Home",
+    "price": 899,
+    "stock": 51,
+    "brand": "ComfortSeat",
+    "rating": 4.4,
+    "description": "Ergonomic cushion designed for comfortable sitting."
+  },
+  {
+    "id": 92,
+    "name": "Memory Foam Pillow",
+    "category": "Home",
+    "price": 1499,
+    "stock": 42,
+    "brand": "SleepWell",
+    "rating": 4.5,
+    "description": "Supportive memory foam pillow for comfortable sleep."
+  },
+  {
+    "id": 93,
+    "name": "Bedsheet Set",
+    "category": "Home",
+    "price": 1299,
+    "stock": 48,
+    "brand": "HomeCraft",
+    "rating": 4.2,
+    "description": "Soft cotton bedsheet set with matching pillow covers."
+  },
+  {
+    "id": 94,
+    "name": "Table Clock",
+    "category": "Home",
+    "price": 699,
+    "stock": 62,
+    "brand": "TimeZone",
+    "rating": 4.1,
+    "description": "Minimal digital table clock with alarm functionality."
+  },
+  {
+    "id": 95,
+    "name": "Wall Clock",
+    "category": "Home Decor",
+    "price": 999,
+    "stock": 35,
+    "brand": "TimeZone",
+    "rating": 4.3,
+    "description": "Modern wall clock with minimalist design."
+  },
+  {
+    "id": 96,
+    "name": "Indoor Plant Pot",
+    "category": "Home Decor",
+    "price": 599,
+    "stock": 70,
+    "brand": "GreenHome",
+    "rating": 4.4,
+    "description": "Decorative ceramic pot suitable for indoor plants."
+  },
+  {
+    "id": 97,
+    "name": "LED Strip Lights",
+    "category": "Home Decor",
+    "price": 1199,
+    "stock": 82,
+    "brand": "SmartLite",
+    "rating": 4.5,
+    "description": "Color-changing LED strip lights with remote control."
+  },
+  {
+    "id": 98,
+    "name": "Scented Candle Set",
+    "category": "Home Decor",
+    "price": 799,
+    "stock": 59,
+    "brand": "AromaHome",
+    "rating": 4.3,
+    "description": "Set of scented candles with relaxing fragrances."
+  },
+  {
+    "id": 99,
+    "name": "Coffee Mug Set",
+    "category": "Kitchen",
+    "price": 699,
+    "stock": 91,
+    "brand": "HomeCraft",
+    "rating": 4.4,
+    "description": "Set of four ceramic coffee mugs for everyday use."
+  },
+  {
+    "id": 100,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Fitness",
+    "price": 999,
+    "stock": 76,
+    "brand": "HydroFit",
+    "rating": 4.6,
+    "description": "Insulated stainless steel bottle that keeps beverages hot or cold."
+  }
+]
