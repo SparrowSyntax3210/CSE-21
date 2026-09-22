@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 45,
+    "brand": "SoundMax",
+    "rating": 4.5,
+    "description": "Over-ear wireless headphones with noise cancellation and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Pro X",
+    "category": "Electronics",
+    "price": 34999,
+    "stock": 18,
+    "brand": "TechNova",
+    "rating": 4.6,
+    "description": "Premium smartphone with AMOLED display and high-performance processor."
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Computer Accessories",
+    "price": 3999,
+    "stock": 32,
+    "brand": "KeyMaster",
+    "rating": 4.4,
+    "description": "RGB mechanical keyboard with tactile switches and programmable keys."
+  },
+  {
+    "id": 4,
+    "name": "Wireless Gaming Mouse",
+    "category": "Computer Accessories",
+    "price": 1799,
+    "stock": 67,
+    "brand": "GamePro",
+    "rating": 4.3,
+    "description": "High precision wireless gaming mouse with adjustable DPI."
+  },
+  {
+    "id": 5,
+    "name": "USB-C Fast Charger",
+    "category": "Electronics",
+    "price": 1299,
+    "stock": 89,
+    "brand": "PowerPlus",
+    "rating": 4.5,
+    "description": "65W USB-C fast charger compatible with smartphones and laptops."
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 1599,
+    "stock": 54,
+    "brand": "UrbanCarry",
+    "rating": 4.2,
+    "description": "Water-resistant backpack with dedicated laptop compartment."
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 2999,
+    "stock": 41,
+    "brand": "SpeedRun",
+    "rating": 4.4,
+    "description": "Lightweight running shoes designed for comfort and daily training."
+  },
+  {
+    "id": 8,
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 2199,
+    "stock": 28,
+    "brand": "DenimCo",
+    "rating": 4.1,
+    "description": "Classic blue denim jacket with a comfortable regular fit."
+  },
+  {
+    "id": 9,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 699,
+    "stock": 120,
+    "brand": "WearWell",
+    "rating": 4.3,
+    "description": "Soft premium cotton t-shirt suitable for everyday wear."
+  },
+  {
+    "id": 10,
+    "name": "Smart Watch Series 5",
+    "category": "Wearables",
+    "price": 4999,
+    "stock": 35,
+    "brand": "FitTech",
+    "rating": 4.5,
+    "description": "Smartwatch with fitness tracking, heart-rate monitoring and notifications."
+  },
+  {
+    "id": 11,
+    "name": "Harsh Goel",
+    "price": "123",
+    "category": "Electronics"
+  }
+]
