@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Notes</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1>My Notes</h1>
+
+    <div id="root">
+      <button id="get-notes">Get Notes</button>
+    </div>
+
+    <div id="notes-list"></div>
+
+    <button id="add-note">Add Note</button>
+
+    <div id="Add-Note" style="display: none">
+      <input type="text" id="note-title" placeholder="Note Title" />
+
+      <textarea id="note-content" placeholder="Note Content"></textarea>
+
+      <button onclick="addNote()">Save Note</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
